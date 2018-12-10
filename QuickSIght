@@ -1,0 +1,12 @@
+#include<iostream>
+
+usinmg namespace std;
+
+
+int main()
+
+{
+
+cout<< "Helloworld";
+
+}
